@@ -1,0 +1,2 @@
+# Project-Tao-Data-folder
+Project Tao is a custom Pokemon Showdown server that aims to create balance and make every Pokemon viable. This is the folder from Showdown's files that we are editing to make these changes, the data folder. To use this, add this folder to the rest of showdown's files, found at https://github.com/smogon/pokemon-showdown, replacing the data folder in those files, then locally host the server as normal.
